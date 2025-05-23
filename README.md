@@ -5,3 +5,5 @@ Group Members:
 Elias Jesse Aviles
 
 Carl Dexter Velez
+
+Anica Janelle Cristines
