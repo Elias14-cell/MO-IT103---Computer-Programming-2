@@ -1,6 +1,7 @@
-CP2_Group-10
+The MotorPH Payroll System is an integrated payroll management solution designed to automate and simplify the employee compensation process of MotorPH.
 
-Group Members:
+
+Contributors:
 
 Elias Jesse Aviles
 
