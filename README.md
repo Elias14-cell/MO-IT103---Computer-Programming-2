@@ -1,8 +1,9 @@
-The MotorPH Payroll System is an integrated payroll management solution designed to automate and simplify the employee compensation process of MotorPH.
+The **MotorPH Payroll System** is an integrated payroll management solution designed to automate and simplify the employee compensation process of MotorPH.
 
 
 
-Contributors:
+
+**Contributors:**
 
 Elias Jesse Aviles
 
