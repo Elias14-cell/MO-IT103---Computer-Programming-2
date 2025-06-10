@@ -2,7 +2,6 @@ The MotorPH Payroll System is an integrated payroll management solution designed
 
 
 Contributors:
-
 Elias Jesse Aviles
 
 Carl Dexter Velez
