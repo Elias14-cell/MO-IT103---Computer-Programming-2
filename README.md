@@ -4,8 +4,6 @@ The **MotorPH Payroll System** is an integrated payroll management solution desi
 
 - Employee Management
   
-- Attendance Logging
-  
 - Payslip Generation
   
 - Salary & Payroll Calculator
